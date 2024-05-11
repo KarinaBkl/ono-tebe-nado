@@ -1,5 +1,5 @@
 header {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 18px;
   color: #000;
@@ -87,7 +87,7 @@ header {
 }
 
 .cover__title {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 100px;
   font-weight: 700;
   color: #fff;
@@ -139,7 +139,7 @@ header {
   display: flex;
   align-items: center;
   gap: 77px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   padding-top: 137px;
   position: relative;
   z-index: 1;
@@ -174,7 +174,7 @@ header {
 }
 
 .lots__heading {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
@@ -209,7 +209,7 @@ header {
 .card__title {
   position: relative;
   z-index: 1;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 22px;
   color: #fff;
   font-weight: 700;
@@ -221,7 +221,7 @@ header {
 .card__text {
   position: relative;
   z-index: 1;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 20px;
   font-weight: 400;
   line-height: 120%;
@@ -246,7 +246,7 @@ header {
 }
 
 .lots__look-more-link {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 20px;
   color: #000;
   font-weight: 400;
@@ -280,7 +280,7 @@ header {
 }
 
 .about__content {
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   color: #000;
   padding-left: 50px;
   display: flex;
@@ -309,19 +309,18 @@ header {
   justify-content: space-between;
   align-items: start;
   padding: 180px 50px 91px;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
   color: #000;
 }
 
 .footer__menu-list {
   list-style-type: none;
- 
 }
 
 .footer__menu {
- text-align: center;
- padding-right: 10px;
+  text-align: center;
+  padding-right: 10px;
 }
 
 .footer__menu-link_active {
@@ -338,4 +337,3 @@ header {
 .footer__social-icon {
   width: 48px;
 }
-
